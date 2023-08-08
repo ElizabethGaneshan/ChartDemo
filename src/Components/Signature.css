@@ -1,0 +1,19 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Form_items {}
+
+.items {
+    margin: 1rem;
+}
+
+.signature {
+    margin: 1rem;
+}
+.submitButton{
+    margin: 1rem;
+}
